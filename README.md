@@ -1,12 +1,5 @@
-The next file is `README.md`, which is used to provide documentation and instructions on how to use your toolkit. Here's a basic structure for your README.md file:
-
 **`README.md`**
-
-```markdown
 # Error Handling and Logging Toolkit for Python
-
-[![Build Status](https://travis-ci.org/yourusername/py-error-handling-toolkit.svg?branch=master)](https://travis-ci.org/pb2204/py-error-handling-toolkit)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pb2204/py-error-handling-toolkit/blob/master/LICENSE)
 
 A Python toolkit that provides enhanced error handling and logging capabilities, making it easier to identify and debug runtime errors when they occur.
 
