@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: python-error
+Version: 1.0.2
+Summary: Error Handling and Logging Toolkit for Python
+Home-page: https://github.com/pb2204/py-error-handling-toolkit
+Author: Pabitra Banerjee
+Author-email: rockstarpabitra2204@gmail.com
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+A toolkit for enhanced error handling and logging in Python applications.
